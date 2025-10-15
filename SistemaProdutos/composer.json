@@ -1,0 +1,10 @@
+{
+  "name": "app/sistema-produtos",
+  "description": "Cadastro e listagem de produtos - PHP puro + Composer",
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  },
+  "require": {}
+}
